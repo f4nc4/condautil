@@ -1,0 +1,8 @@
+Employee1,Employee2,RelationshipScore
+Alice,Bob,50
+Alice,Charlie,70
+Bob,Dave,-30
+Charlie,Eve,10
+Dave,Frank,100
+Eve,Grace,60
+Frank,Heidi,-20
